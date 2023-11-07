@@ -1,4 +1,6 @@
 Algoritmo "LISTA 0.51 - Q07 - PROG LACOS"
+// Disciplina  :  [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 // Desenvolver um programa que apresente todos os números
 // divisíveis por 4 que sejam menores que 200.
 // Para saber se o número é divisível por 4 será necessário
