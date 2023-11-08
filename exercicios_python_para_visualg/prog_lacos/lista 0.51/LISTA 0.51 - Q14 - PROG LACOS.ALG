@@ -8,7 +8,7 @@ Var
    acum:inteiro
 Inicio
    // Seção de Comandos, procedimento, funções, operadores, etc...
-   cont
+
 
 
 
