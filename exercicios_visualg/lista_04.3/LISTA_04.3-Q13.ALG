@@ -1,15 +1,18 @@
 Algoritmo "LISTA_04.3-Q13"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 21/11/2023
+// Sabendo-se que uma Polegada equivale a 2,54 centímetros, desenvolver
+// um programa que exiba uma tabela de conversões de polegadas para centímetros
+// , de 1 polegada até um valor inteiro de polegada inserido pelo usuário.
 Var
-// Seção de Declarações das variáveis 
-
+   // Seção de Declarações das variáveis
+   cont:inteiro
+   num:inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+   // Seção de Comandos, procedimento, funções, operadores, etc...
+   escreval("Informe um valor: ")
+   leia(num)
 
-
+   para cont de 1 ate num passo 1 faca
+      escreval(cont," Polegadas", " Centímetros: ",(cont*2.54))
+   fimpara
 Fimalgoritmo
